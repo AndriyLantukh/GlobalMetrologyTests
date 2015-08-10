@@ -2,7 +2,8 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="E:/SoftServe/GlobalMetrology/Project/lib/selenium-java-2.45.0.jar"/>
-	<classpathentry kind="lib" path="E:/SoftServe/GlobalMetrology/Project/lib/selenium-server-standalone-2.45.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Аллочкино/workspace/GlobalMetrologyTests/lib/selenium-java-2.45.0.jar"/>
+	<classpathentry kind="lib" path="D:/Аллочкино/workspace/GlobalMetrologyTests/lib/selenium-server-standalone-2.45.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
