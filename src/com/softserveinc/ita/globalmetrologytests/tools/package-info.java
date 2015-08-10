@@ -2,4 +2,4 @@
  * @author Dp-076 ATQC
  *
  */
-package com.softserveinc.ita.globalmetrologyyests.tools;
+package com.softserveinc.ita.globalmetrologytests.tools;

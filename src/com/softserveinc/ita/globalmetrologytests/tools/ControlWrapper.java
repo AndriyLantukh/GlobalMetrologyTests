@@ -1,4 +1,4 @@
-package com.softserveinc.ita.globalmetrologyyests.tools;
+package com.softserveinc.ita.globalmetrologytests.tools;
 
 import org.openqa.selenium.WebElement;
 /**

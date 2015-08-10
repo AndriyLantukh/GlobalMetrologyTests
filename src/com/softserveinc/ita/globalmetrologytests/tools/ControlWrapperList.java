@@ -1,4 +1,4 @@
-package com.softserveinc.ita.globalmetrologyyests.tools;
+package com.softserveinc.ita.globalmetrologytests.tools;
 
 import java.util.ArrayList;
 import java.util.List;
